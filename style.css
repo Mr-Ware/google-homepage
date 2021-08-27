@@ -5,6 +5,17 @@ body, html{
 }
 
 .container {
-    display: flex;
+    display: inline-flex;
     flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+
+.top-navbar {
+    display: flex;
+    height: 65px;
+}
+
+.logo {
+    padding: 120px 200px 0px 50px;
 }
