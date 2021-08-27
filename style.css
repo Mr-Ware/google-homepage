@@ -1,28 +1,10 @@
-body, html {
+
+body, html{
+    width: 100%;
     height: 100%;
-    margin: 0;
-    padding: 0;
-    min-width: 400px;
-    font-size: 14px;
-    font-family: Roboto,arial,sans-serif;
-    color: #222;
 }
 
-a {
-    color: black;
-    padding: 10px;
-}
-
-.s-i {
-    float: right;
-}
-
-.row1 {
-    margin: 150px 280px 50px;
-}
-
-.bottom {
-    margin: 230px 2px 50px 50px;
-    background-color: ghostwhite;
-    width: max-content;
+.container {
+    display: flex;
+    flex-direction: column;
 }
