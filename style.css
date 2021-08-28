@@ -17,11 +17,17 @@ body, html{
     height: 65px;
     justify-content: space-between;
     margin-bottom: 150px;
-    width: 99%;
+    width: 100%;
     margin-left: 10px;
     margin-right: 40px;
+    overflow: visible;
 
 
+}
+
+.pp {
+    display: flex;
+    justify-content: 
 }
 
 .pool {
@@ -31,6 +37,7 @@ body, html{
 }
 .navright {
     display: flex;
+    justify-content: 
     ;
 }
 .repo {
@@ -60,6 +67,7 @@ body, html{
     bottom: 0;
     background-color: #eeeeee;
     color: #000000b6;
+    overflow: visible;
 }
 
 .logo {
