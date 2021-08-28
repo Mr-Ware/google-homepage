@@ -10,6 +10,7 @@ body, html{
     flex-direction: column;
     height: auto;
     width: auto;
+    width: 98%;
 }
 
 .top-navbar {
@@ -20,9 +21,42 @@ body, html{
     width: 100%;
     margin-left: 10px;
     margin-right: 40px;
-    overflow: visible;
 
 
+}
+
+.ab {
+    margin-left: 10px;
+}
+
+.st {
+    margin-left: 10px;
+}
+
+.ad {
+    margin-left: 10px;
+}
+
+.bu {
+    margin-left: 10px;
+}
+
+..se {
+    margin-right: 20px;
+    
+}
+
+.material-icons { 
+    margin-right: 10px;
+}
+.im { 
+    margin-right: 10px;
+}
+.gm { 
+    margin-right: 10px;
+}
+.pr {
+    margin-right: 10PX;
 }
 
 .pp {
