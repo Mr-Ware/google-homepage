@@ -24,8 +24,28 @@ body, html{
 
 }
 
+.pool {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}
+.navright {
+    display: flex;
+    ;
+}
+.repo {
+    background-image: url(https://48hpy8dtt63tfjcap212px99-wpengine.netdna-ssl.com/wp-content/uploads/Cameron.jpg);
+}
+
 .sin {
-    background-color: ;
+    background-color: #4285f4;
+    color: whitesmoke;
+    border: 1px;
+    border-color: 4285f4;
+    font-weight: bold;
+    border-radius: 2px;
+    line-height: 28px;
+    padding: 0px 12px;
 }
 
 .bottom-navbar {
